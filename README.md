@@ -1,4 +1,4 @@
-﻿#Running the keylogger:
+﻿# Running the keylogger:
 1. Downgrade Kernel
 2. Change the IP in combo.c on line 264 to the desired ip (default is localhost)
 2. Compile and run the test server
